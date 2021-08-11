@@ -57,5 +57,3 @@
 |Social        |avg_nchlt5                       |0          |0          |0          |0           |
 |Social        |avg_agedeadyr                    |0          |0          |0          |0           |
 |              |                                 |           |           |           |            |
-|              |                                 |           |           |           |            |
-|sun @ 11:00am |                                 |           |0.216504429|#DIV/0!    |            |
